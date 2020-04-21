@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url("stylesheetcommunity.css");
 
 body{
 	background-image: url("../Images/background.jpg");
@@ -83,19 +84,4 @@ position:absolute;
 }
 
 
-
-h1{
-	font: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	color: white;
-}
-
-p{
-	font: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	color: white;
-}
-
-label{
-	font: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
-	color: white;
-}
 
