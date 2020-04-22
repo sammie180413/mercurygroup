@@ -94,3 +94,8 @@ font-family: "arial black";
 	text-shadow: 6px 5px #FF070B;
 	font-size: 80px;
 }
+
+.hp  {
+float: right;    
+ margin: 0 0 0 15px;
+}
