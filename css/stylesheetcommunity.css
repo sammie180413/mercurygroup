@@ -9,7 +9,7 @@ h1{
 h2{
 	font: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: white;
-	text-align: center;
+	text-align: right;
 }
 
 h3{
@@ -33,4 +33,6 @@ label{
 label{
 	font: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	color: white;
+}
+.align-right {
 }
