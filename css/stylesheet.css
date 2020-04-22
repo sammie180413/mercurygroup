@@ -21,6 +21,10 @@ font-family: "arial black";
 	background-color: #FADADA;
 }
 
+.hide{
+	color: #FADADA;
+}
+
 .body-text{
 font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	font-weight: 300;
