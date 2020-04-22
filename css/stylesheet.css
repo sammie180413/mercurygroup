@@ -1,5 +1,4 @@
 @charset "UTF-8";
-@import url("stylesheetcommunity.css");
 
 body{
 	background-image: url("../Images/background.jpg");
@@ -82,3 +81,16 @@ width:100%;
 position:absolute;
 }
 
+.white-text{
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color: white;
+	text-align: center;
+}
+
+.sbl-title{
+  text-align: center;
+font-family: "arial black";
+	color: white;
+	text-shadow: 6px 5px #FF070B;
+	font-size: 80px;
+}
