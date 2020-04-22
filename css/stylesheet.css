@@ -25,10 +25,9 @@ font-family: "arial black";
 .body-text{
 font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
 	font-weight: 300;
-color: #ffffff;	color: black;
+	color: black;
 	padding-top: 15px;
 	padding-bottom: 20px;
-	
 }
 
 .white-bg{
@@ -83,7 +82,3 @@ width:100%;
 position:absolute;
 }
 
-
-
-.align-center {
-}
